@@ -29,7 +29,7 @@ const dataInggris = [
 
     "She had no idea. She was Sophie Amundsen, of course, but who was that? She had not really figured that out—yet.",
 
-    "Bagaimana seandainya dia telah diberi nama lain? Anne Knutsen, misalnya. Apakah dia lalu menjadi orang lain?"
+    "What if she had been given a different name? Anne Knutsen, for instance. Would she then have been someone else?"
 ]
 
 // page 4
